@@ -301,11 +301,11 @@
       0
     ],
     "league_bonus_percentages": {
-      "numberarray": [
+      "numberArray": [
         50,
         70
       ],
-      "altnumberarray": [
+      "altNumberArray": [
         80,
         100
       ]
